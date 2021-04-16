@@ -2,8 +2,11 @@
 
 A TypeScript project
 
-For development:
+To run in development:
 npm run dev
 
-For build:
+To generate build:
 npm run tsc
+
+To run in production:
+npm start
